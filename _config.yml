@@ -1,0 +1,28 @@
+name: MaxShields
+favicon: null
+layout_spectrum: 0.2134421186055988
+typography_spectrum: 0.26405546837486327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.10628137830644846
+  lightness: 0.08176042814739048
+  saturation: 0.9678475363180041
+  rhythmicContrast: 0.2621122212149203
+purpose: []
