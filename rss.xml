@@ -4,11 +4,18 @@
         <description><![CDATA[Artist, Photographer, Author, Game Developer]]></description>
         <link>https://thegrid.ai/maxshields/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 17:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 18:05:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/maxshields/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Photography]]></title>
+            <description><![CDATA[<article><h1>Photography</h1><p>PHOTOGRAPHY</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87fcb174fe703c0e9e7b215f27d690574d78f27b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/maxshields/photography/index.html</link>
+            <guid isPermaLink="false">842bed38-3176-406a-8d8f-4927f4c6e191</guid>
+            <pubDate>Wed, 27 Jan 2016 18:05:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dandelion Burst]]></title>
-            <description><![CDATA[<article><h1>Dandelion Burst</h1><p>Welcome to my new home!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d253d22d99c71fa6094f1139b99f3ca061eb275.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dandelion Burst</h1><p>Welcome to my new home!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e68d5598884e9a530fe956d9e00777a03d7b8df0.jpg"></article>]]></description>
             <link>https://thegrid.ai/maxshields/8a0f9be8-3535-4840-9b63-6c2ffbc89564/index.html</link>
             <guid isPermaLink="false">8a0f9be8-3535-4840-9b63-6c2ffbc89564</guid>
             <pubDate>Wed, 27 Jan 2016 17:50:29 GMT</pubDate>
