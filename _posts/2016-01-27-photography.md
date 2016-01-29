@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'A selection of my photographs '
-datePublished: '2016-01-27T18:05:23.618Z'
-dateModified: '2016-01-27T18:05:03.176Z'
+datePublished: '2016-01-29T18:07:00.794Z'
+dateModified: '2016-01-27T18:11:45.342Z'
 title: Photography
 author: []
 authors: []
