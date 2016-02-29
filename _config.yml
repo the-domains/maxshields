@@ -1,6 +1,6 @@
 name: MaxShields
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74883
 typography_spectrum: 0.65626
 title: 'Artist, Photographer, Author, Game Developer'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#101010'
-    - '#acacac'
-    - '#323232'
-    - '#656565'
-    - '#ebebeb'
-  brandStrength: 0.5
+    - '#a5bbde'
+    - '#92040b'
+    - '#d2d0dd'
+    - '#3c0103'
+    - '#dc1d25'
+  brandStrength: 0
   lightness: 1
   saturation: 0.5
-  rhythmicContrast: 0
+  rhythmicContrast: 0.75
 purpose: []
